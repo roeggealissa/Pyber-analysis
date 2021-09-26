@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Pyber, a python based ride-share app, has found success in hundreds of cities since its inception.  A ride-share app is one in which the company hires individuals on a contract basis to use their own vehicle to transport others with minimal oversight other than basic driver training and a background check. This is different than a taxi company which hires employees to drive company cars which typically has more oversight and individual state or city regulations. The advantage of a ride-share company is the ability to fire a large amount of contrators and replace them with ease, allowing the company to keep up with market demand and internal quotas. The overall task we are working on in this report is to visualize if there are differences in service between different city types that Pyber serves.
+Pyber, a python based ride-share app, has found success in hundreds of cities since its inception.  A ride-share app is one in which the company hires individuals on a contract basis to use their own vehicle to transport others with minimal oversight other than basic driver training and a background check. This is different than a taxi company which hires employees to drive company cars which typically has more oversight and individual state or city regulations. The advantage of a ride-share company is the ability to hire and fire a large amount of contrators and replace them with ease, allowing the company to keep up with market demand and internal quotas. The overall task we are working on in this report is to visualize if there are differences in service between different city types that Pyber serves.
 
 ### Data Analysis
 
