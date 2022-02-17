@@ -2,15 +2,15 @@
 
 # Analysis of a Ride-Share App Using Python
 
-### Introduction
+### Goal of the Project
 
-Pyber, a python based ride-share app, has found success in hundreds of cities since its inception.  A ride-share app is one in which the company hires individuals on a contract basis to use their own vehicle to transport others with minimal oversight other than basic driver training and a background check. This is different than a taxi company which hires employees to drive company cars which typically has more oversight and individual state or city regulations. The advantage of a ride-share company is the ability to hire and fire a large amount of contrators and replace them with ease, allowing the company to keep up with market demand and internal quotas. The overall task we are working on in this report is to visualize if there are differences in service between different city types that Pyber serves.
+The overall task we are working on in this report is to visualize if there are differences in service between different city types that a rideshare comapany serves.
 
 ### Data Analysis
 
 ##### Data
 
-The data we recieved for this project are two csv files. One contains the cities Pyber operates in, the number of drivers registered for each city, and the type of city each city is. There are three types of city, "Urban", "Suburban", and "Rural". The second csv contains individual ride data. For each ride, the city in which the ride took place is recorded, the date and time the ride took place, the fare paid for the ride, and a unique ID to identify the transaction. After checking the data for anomalous entries such as null values, we merge the two dataframes on the city name column they both share. This gives us the starting dataframe for our analysis.
+The data we recieved for this project are two csv files. One contains the cities the rideshare company operates in, the number of drivers registered for each city, and the type of city each city is. There are three types of city, "Urban", "Suburban", and "Rural". The second csv contains individual ride data. For each ride, the city in which the ride took place is recorded, the date and time the ride took place, the fare paid for the ride, and a unique ID to identify the transaction. After checking the data for anomalous entries such as null values, we merge the two dataframes on the city name column they both share. This gives us the starting dataframe for our analysis.
 
 ##### Analysis
 
